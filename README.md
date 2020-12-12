@@ -7,7 +7,7 @@ Esta Lista se baseia no Modelo do reator CSTR desenvolvido em aula, cuja estrutu
 
 ## Questão 1 a
 
-Objetivo: Calcular as curvas do Calor Gerado (Qg) e Removido (Qr) em função da Temperatura de forma a observar os estados estacionários do sistma quando Qg = Qr.
+Objetivo: Calcular as curvas do Calor Gerado (Qg) e Removido (Qr) em função da Temperatura de forma a observar os estados estacionários do sistema quando Qg = Qr.
 
 ![1_a](./imagens/1_a.png)
 
@@ -16,11 +16,11 @@ O sistema se encontra no estado estacionário (dC/dt = dT/dt = 0) e portanto a p
 
 ## Questão 1 b
 
-Objetivo: Encontrar as raízes do sistema de equações no Estado Estacionário para dirversos chutes iniciais de Concentração e Temperatura de modo a observar que o sistema possui 3 possíveis Estados Estacionário e quais estes valores de Temperatura e Concentração.
+Objetivo: Encontrar as raízes do sistema de equações no Estado Estacionário para diversos chutes iniciais de Concentração e Temperatura de modo a observar que o sistema possui 3 possíveis Estados Estacionário e quais estes valores de Temperatura e Concentração.
 
 ![1_b](./imagens/1_b.png)
 
-Como se pode observar, para diversos chutes aleatórios de Tempeatura e Concentração o algorítimo de resolução do sistema no estado estacionário sempre encontra um dos três pontos. São eles:
+Como se pode observar, para diversos chutes aleatórios de Temperatura e Concentração o algorítimo de resolução do sistema no estado estacionário sempre encontra um dos três pontos. São eles:
 
 |  T(K)  | C(kgmol/m³) |
 |--------|------------:|
@@ -31,7 +31,7 @@ Como se pode observar, para diversos chutes aleatórios de Tempeatura e Concentr
 
 ## Questão 1 c
 
-Objetivo: Resolver o sistema de forma dinâmica para valores aleatórios de Concentração e Tempertauras e inciais e apresentar um plano de fases que indique o caminho do sistema até atingir o Estado Estacionário.
+Objetivo: Resolver o sistema de forma dinâmica para valores aleatórios de Concentração e Temperaturas e inciais e apresentar um plano de fases que indique o caminho do sistema até atingir o Estado Estacionário.
 
 ![1_c](./imagens/1_c.png)
 
